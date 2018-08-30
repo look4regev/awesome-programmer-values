@@ -2,9 +2,9 @@
 Curated list of values a programmer should have
 
 ## Motivation
-What values does a software engineer should have in order to be excellent in accomplishing the tech goals he/she is required?
-There are a lot of articles out there but not a single list *maintained by the community of thousands of programmers* that are able to offer PRs and insights to a source control list of such values. This is the goal of this repo:
-Becoming a *standard* of engineering values companies and people can endorse.
+### What values does a software engineer should have in order to be excellent in accomplishing the tech goals he/she is required?
+There are a lot of articles out there but not a single list **maintained by the community of thousands of programmers** that are able to offer PRs and insights to a source control list of such values. This is the goal of this repo.
+### Becoming a **standard** of engineering values companies and people can endorse.
 Please feel free to PR and share.
 
 ## The list
@@ -21,7 +21,6 @@ Please feel free to PR and share.
 5. Simple is better than clever
 6. Open for feedback
 7. Uphold high standards of excellence
-
 
 ## Main sources
 1. Dan Pupius [medium post](https://blog.asana.com/2016/05/asana-engineering-values/)
